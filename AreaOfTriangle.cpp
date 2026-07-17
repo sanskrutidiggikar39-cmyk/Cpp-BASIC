@@ -10,6 +10,7 @@ int main() {
     area = 0.5 * base * height;
     perimeter = base + height + sqrt(base * base + height * height);
     cout << "The area of the triangle is: " << area << endl;
-    cout << "The perimeter of the triangle is: " << perimeter << endl;
+    cout << "The perimeter of the triangle is: " << perimeter << endl
+    cout<< "Thank You!!" << endl; 
     return 0;
 }
